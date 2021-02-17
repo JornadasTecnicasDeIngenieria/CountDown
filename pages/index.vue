@@ -10,7 +10,7 @@
         <NuxtLink to="industrial"><span class="indu">INGENIERIA ELECTRONICA INDUSTRIAL</span></NuxtLink><br/>
         <NuxtLink to="mecanica"><span class="meca">INGENIERIA MECANICA</span></NuxtLink><br/>
       </div>
-      <Partners/>
+      <Footer/>
 
     </div>
   </div>
