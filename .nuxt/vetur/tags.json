@@ -1,0 +1,32 @@
+{
+  "Content": {
+    "description": "Auto imported from /components/Content.vue"
+  },
+  "LazyContent": {
+    "description": "Auto imported from /components/Content.vue"
+  },
+  "CountDown": {
+    "description": "Auto imported from /components/CountDown.vue"
+  },
+  "LazyCountDown": {
+    "description": "Auto imported from /components/CountDown.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from /components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from /components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from /components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from /components/Header.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from /components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from /components/Logo.vue"
+  }
+}

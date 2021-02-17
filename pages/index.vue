@@ -1,0 +1,46 @@
+<template>
+  <div class="container">
+    <div class="mainpage">
+      <Header
+      roomname = "SELECCIÓN DE CARRERA"
+      />
+      <div class="select">
+        <NuxtLink to="informatica"><span class="info">INGENIERIA INFORMATICA</span></NuxtLink><br/>
+        <NuxtLink to="quimica"><span class="quim">INGENIERIA QUÍMICA</span></NuxtLink><br/>
+        <NuxtLink to="industrial"><span class="indu">INGENIERIA ELECTRONICA INDUSTRIAL</span></NuxtLink><br/>
+        <NuxtLink to="mecanica"><span class="meca">INGENIERIA MECANICA</span></NuxtLink><br/>
+      </div>
+      <Partners/>
+
+    </div>
+  </div>
+</template>
+
+<style scoped>
+  .mainpage{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background: #5C068C;
+  }
+  .select{
+    position: relative;
+    margin-top: 15%;
+    text-align: center;
+  }
+  span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 71px;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+  }
+  .info{
+    position: relative;
+  }
+</style>
+
