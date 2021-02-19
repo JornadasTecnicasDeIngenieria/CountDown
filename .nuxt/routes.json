@@ -3,35 +3,30 @@
     "name": "industrial",
     "path": "/industrial",
     "component": "/home/redes/CountDown/pages/industrial.vue",
-    "chunkName": "pages/industrial",
-    "_name": "_9b5d4a7e"
+    "chunkName": "pages/industrial"
   },
   {
     "name": "informatica",
     "path": "/informatica",
     "component": "/home/redes/CountDown/pages/informatica.vue",
-    "chunkName": "pages/informatica",
-    "_name": "_3c752493"
+    "chunkName": "pages/informatica"
   },
   {
     "name": "mecanica",
     "path": "/mecanica",
     "component": "/home/redes/CountDown/pages/mecanica.vue",
-    "chunkName": "pages/mecanica",
-    "_name": "_7b97f997"
+    "chunkName": "pages/mecanica"
   },
   {
     "name": "quimica",
     "path": "/quimica",
     "component": "/home/redes/CountDown/pages/quimica.vue",
-    "chunkName": "pages/quimica",
-    "_name": "_1b2f1e27"
+    "chunkName": "pages/quimica"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/redes/CountDown/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_4153eb8c"
+    "chunkName": "pages/index"
   }
 ]

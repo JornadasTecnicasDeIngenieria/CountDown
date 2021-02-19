@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/informatica", {data:[{}],fetch:{},mutations:void 0});

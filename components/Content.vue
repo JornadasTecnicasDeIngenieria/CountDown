@@ -4,12 +4,7 @@
         <p class="startsin">Comienza en...</p>
 
         <div class="img-left">
-            <img src="red.png" width="483" height="412">
-        </div>
-
-        <div class="timer hours">
-            <span class="timernumber" id="countHours"></span><br/>
-            <span class="timertext">HORAS</span>
+            <img :src="imageLeftUrl" width="483" height="412">
         </div>
 
         <div class="timer minutes">
@@ -23,7 +18,7 @@
         </div>
 
         <div class="img-right">
-            <img src="pc.png" width="500" height="266">
+            <img :src="imageRightUrl" width="300" height="300">
         </div>
     </div>
 </template>
@@ -71,7 +66,7 @@ export default {
             var minutes = Math.floor((distance % _hours) / _minutes);
             var seconds = Math.floor((distance % _minutes) / _seconds);
 
-            document.getElementById('countHours').innerHTML = hours;
+            //document.getElementById('countHours').innerHTML = hours;
             document.getElementById('countMinutes').innerHTML = minutes;
             document.getElementById('countSeconds').innerHTML = seconds;
         }
@@ -142,18 +137,10 @@ export default {
 
     color: #FFFFFF;
 }
-.hours{
-    position: absolute;
-    text-align: center;
-    left: 560px;
-    top: 440px;
-    width: 200px;
-    height: 200px;
-}
 .minutes{
     position: absolute;
     text-align: center;
-    left: 860px;
+    left: 710px;
     top: 440px;
     width: 200px;
     height: 200px;
@@ -161,7 +148,7 @@ export default {
 .seconds{
     position: absolute;
     text-align: center;
-    left: 1160px;
+    left: 1010px;
     top: 440px;
     width: 200px;
     height: 200px;

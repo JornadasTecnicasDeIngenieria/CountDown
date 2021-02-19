@@ -5,10 +5,10 @@
       roomname = "SALA DE INGENIERÍA ELECTRÓNICA"
       />
       <Content
-      :imageLeftUrl="require('~/static/red.png')"
-      :imageRightUrl="require('~/static/pc.png')"
+      :imageLeftUrl="require('~/static/elect.png')"
+      :imageRightUrl="require('~/static/robotics.png')"
       nextConf = 'Próxima Conferencia: Prácticas Externas'
-      targetDate='03/17/2021 3:00 AM'
+      targetDate='03/17/2021 3:00 PM'
       />
       <Footer/>
 
