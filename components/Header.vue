@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div>
-            <img class="logo" src="/CountDown/assets/images/logo.png" width="500px" height="317px">
+            <img class="logo" src="~/assets/images/logo.png" width="500px" height="317px">
         </div>
         <div class="roomname">
             <p>{{roomname}}</p>

@@ -5,8 +5,8 @@
       roomname = "SALA DE INGENIERÍA MECÁNICA"
       />
       <Content
-      :imageLeftUrl="require('/CountDown/assets/images/ingmech.png')"
-      :imageRightUrl="require('/CountDown/assets/images/imech.png')"
+      :imageLeftUrl="require('~/assets/images/ingmech.png')"
+      :imageRightUrl="require('~/assets/images/imech.png')"
       nextConf = 'Próxima Conferencia: Prácticas Externas'
       targetDate='03/17/2021 3:00 PM'
       />

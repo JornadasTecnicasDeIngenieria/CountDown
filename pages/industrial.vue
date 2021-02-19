@@ -5,8 +5,8 @@
       roomname = "SALA DE INGENIERÍA ELECTRÓNICA"
       />
       <Content
-      :imageLeftUrl="require('/CountDown/assets/images/elect.png')"
-      :imageRightUrl="require('/CountDown/assets/images/robotics.png')"
+      :imageLeftUrl="require('~/assets/images/elect.png')"
+      :imageRightUrl="require('~/assets/images/robotics.png')"
       nextConf = 'Próxima Conferencia: Prácticas Externas'
       targetDate='03/17/2021 3:00 PM'
       />
