@@ -6,9 +6,9 @@
                 <p>COLABORAN</p>
             </div>
             <div class="whitebar"></div>
-            <img src="ULL_logo.png" width="375px" height="125px" class="ull">
-            <img src="FIFEDE_logo.png" width="375px" height="125px" class="fifede">
-            <img src="CABILDO_logo.png" width="375px" height="125px" class="cabildo">
+            <img src="/CountDown/assets/images/ULL_logo.png" width="375px" height="125px" class="ull">
+            <img src="/CountDown/assets/images/FIFEDE_logo.png" width="375px" height="125px" class="fifede">
+            <img src="/CountDown/assets/images/CABILDO_logo.png" width="375px" height="125px" class="cabildo">
         </div>
         <div class="networks">
             <div class="linkedin">
