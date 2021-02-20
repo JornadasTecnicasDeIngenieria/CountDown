@@ -30,7 +30,7 @@ export default {
 }
 .roomname p{
     position: absolute;
-    top: 16px;
+    top: 46px;
     left:1230px;
     width: 642px;
     height: 71px;
