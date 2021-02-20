@@ -5,10 +5,10 @@
       roomname = "SELECCIÓN DE CARRERA"
       />
       <div class="select">
-        <NuxtLink to="~/informatica"><span class="info">INGENIERIA INFORMATICA</span></NuxtLink><br/>
-        <NuxtLink to="~/quimica"><span class="quim">INGENIERIA QUÍMICA</span></NuxtLink><br/>
-        <NuxtLink to="~/industrial"><span class="indu">INGENIERIA ELECTRONICA INDUSTRIAL</span></NuxtLink><br/>
-        <NuxtLink to="~/mecanica"><span class="meca">INGENIERIA MECANICA</span></NuxtLink><br/>
+        <NuxtLink to="informatica"><span class="info">INGENIERIA INFORMATICA</span></NuxtLink><br/>
+        <NuxtLink to="quimica"><span class="quim">INGENIERIA QUÍMICA</span></NuxtLink><br/>
+        <NuxtLink to="industrial"><span class="indu">INGENIERIA ELECTRONICA INDUSTRIAL</span></NuxtLink><br/>
+        <NuxtLink to="mecanica"><span class="meca">INGENIERIA MECANICA</span></NuxtLink><br/>
       </div>
       <Footer/>
 

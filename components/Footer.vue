@@ -12,19 +12,19 @@
         </div>
         <div class="networks">
             <div class="linkedin">
-                <img src="linkedin.png" class="netimg">
+                <img src="~/assets/images/linkedin.png" class="netimg">
                 <span class="netname">linkedin.com/company/jtiesit</span>
             </div>
             <div class="insta">
-                <img src="insta.png" class="netimg">
+                <img src="~/assets/images/insta.png" class="netimg">
                 <span class="netname">@jtiesit</span>
             </div>
             <div class="twitter">
-                <img src="twitter.png" class="netimg">
+                <img src="~/assets/images/twitter.png" class="netimg">
                 <span class="netname">@jtiesit</span>
             </div>
             <div class="mail">
-                <img src="mail.png" class="netimg">
+                <img src="~/assets/images/mail.png" class="netimg">
                 <span class="netname">jtiesit@ull.edu.es</span>
             </div>
         </div>
