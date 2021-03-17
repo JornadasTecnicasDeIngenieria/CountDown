@@ -35,7 +35,8 @@ export default {
     width: 642px;
     height: 71px;
 
-    font-family: Raleway;
+
+    font-family: inherit;
     font-style: normal;
     font-weight: 500;
     font-size: 42px;
