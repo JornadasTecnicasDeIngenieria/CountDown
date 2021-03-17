@@ -8,7 +8,7 @@
       :imageLeftUrl="require('~/assets/images/quimica.png')"
       :imageRightUrl="require('~/assets/images/ingquimica.png')"
       nextConf = 'Próxima Conferencia: Prácticas Externas'
-      targetDate='03/17/2021 3:00 PM'
+      targetDate='03/17/2021 5:30 PM'
       />
       <Footer/>
 
