@@ -86,7 +86,7 @@ export default {
     position: absolute;
     top: 220px;
     left: 457px;
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 64px;
@@ -100,7 +100,7 @@ export default {
     position: absolute;
     top: 331px;
     left: 828px;
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 48px;
@@ -118,7 +118,7 @@ export default {
 }
 .timernumber{
     position: relative;
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 96px;
@@ -129,7 +129,7 @@ export default {
 .timertext{
     position: relative;
     margin-top: 80%;
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;

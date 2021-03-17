@@ -51,7 +51,7 @@ export default {
     top: 670px;
     left: 845px;
 
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 48px;
@@ -110,7 +110,7 @@ export default {
     left: 1390px;
 }
 .netname{
-    font-family: Oswald;
+    font-family: Raleway;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
