@@ -1,6 +1,6 @@
 <template>
     <div class="content-elements">
-        <p class="nextconf">Próxima Conferencia: Prácticas Externas</p>
+        <p class="nextconf">{{nextConf}}</p>
         <p class="startsin">Comienza en...</p>
 
         <div class="img-left">
