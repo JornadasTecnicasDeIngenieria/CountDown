@@ -7,8 +7,8 @@
       <Content
       :imageLeftUrl="require('~/assets/images/red.png')"
       :imageRightUrl="require('~/assets/images/pc.png')"
-      nextConf = 'Próxima Conferencia: COITIC'
-      targetDate='03/18/2021 3:00 PM'
+      nextConf = 'Trabajar fuera, la otra alternativa'
+      targetDate='03/18/2021 5:30 PM'
       />
       <Footer/>
 

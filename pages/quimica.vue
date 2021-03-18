@@ -7,8 +7,8 @@
       <Content
       :imageLeftUrl="require('~/assets/images/quimica.png')"
       :imageRightUrl="require('~/assets/images/ingquimica.png')"
-      nextConf = 'Próxima conferencia: COITITF y MUPITI'
-      targetDate='03/18/2021 3:00 PM'
+      nextConf = 'Próxima conferencia: Frimancha Canarias'
+      targetDate='03/18/2021 5:30 PM'
       />
       <Footer/>
 

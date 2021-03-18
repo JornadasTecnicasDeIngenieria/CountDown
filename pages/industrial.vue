@@ -7,8 +7,8 @@
       <Content
       :imageLeftUrl="require('~/assets/images/elect.png')"
       :imageRightUrl="require('~/assets/images/robotics.png')"
-      nextConf = 'Próxima conferencia: COITITF y MUPITI'
-      targetDate='03/18/2021 3:00 PM'
+      nextConf = 'El Área de Instrumentación del IAC'
+      targetDate='03/18/2021 5:30 PM'
       />
       <Footer/>
 
